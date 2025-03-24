@@ -1,0 +1,24 @@
+{
+  "name": "express-puppeteer-screenshot-server",
+  "version": "1.0.0",
+  "description": "express js server to take screenshot using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "dev-esm": "node server.mjs"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "screenshot server",
+    "puppeteer",
+    "nodejs screenshot api"
+  ],
+  "author": "admin@screenshotbuddy.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "puppeteer": "^24.4.0"
+  }
+}
