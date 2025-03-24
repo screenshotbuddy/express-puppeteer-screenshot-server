@@ -14,7 +14,7 @@
     "puppeteer",
     "nodejs screenshot api"
   ],
-  "author": "admin@screenshotbuddy.com",
+  "author": "screenshotbuddy.com",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
