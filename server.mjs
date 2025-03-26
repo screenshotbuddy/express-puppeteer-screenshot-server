@@ -1,9 +1,9 @@
 import express from "express"
 import puppeteer from "puppeteer"
-import cors from "cors"
+
 
 const app = express()
-app.use(cors())
+
 
 app.get("/screenshot", async (req, res) => {
   let browser
